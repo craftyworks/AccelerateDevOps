@@ -12,25 +12,25 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
    
    Say my Name.
 
-5. Modify the following line by removing the letters that do not belong:
+4. Modify the following line by removing the letters that do not belong:
 
    __---> The cow jumped over the moon__
 
-6. Commit your changes into a new _branch_:
+5. Commit your changes into a new _branch_:
 
    ![Commit Changes](img/commit.png)
 
-7. In the next screen create the pull request by completing the title and description. Note the complete markdown support that we've seen in Chapter 2 for issues:
+6. In the next screen create the pull request by completing the title and description. Note the complete markdown support that we've seen in Chapter 2 for issues:
 
    ![Create pr](img/create-pr.png)
 
    Make sure that the pull request uses base:main and not the upstream repository. This should be correct by default.
 
-8. Got to `Files changed` and note the changes (deleted lines red, added lines green). Add a comment to a line by clicking the `+`at the beginning of the line when hovering with the mouse over it. Add a comment to line nine and click `Add single comment`.
+7. Got to `Files changed` and note the changes (deleted lines red, added lines green). Add a comment to a line by clicking the `+`at the beginning of the line when hovering with the mouse over it. Add a comment to line nine and click `Add single comment`.
 
    ![Comment on changes](img/comment.png)
 
-9. Edit the file opening the menu in the top right corner and selecting `Edit file`.
+8. Edit the file opening the menu in the top right corner and selecting `Edit file`.
 
    ![Edit file](img/edit-file.png)
 
